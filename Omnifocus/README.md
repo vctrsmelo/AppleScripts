@@ -1,0 +1,1 @@
+Sync Project ET: for all projects, will set its estimated time to the sum of its tasks estimated time.
